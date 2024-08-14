@@ -13,73 +13,73 @@ function Calendario() {
         <div className="flow-root max-w-3xl mx-auto mt-8 sm:mt-12 lg:mt-16">
           <div className="-my-4 divide-y divide-gray-200 dark:divide-gray-700">
               <div className="flex flex-col gap-2 py-4 sm:gap-6 sm:flex-row sm:items-center">
-                <p className="w-32 text-lg font-normal text-gray-500 sm:text-right dark:text-gray-400 shrink-0">
+                <p className="w-32 md:text-1xl font-normal text-gray-500 sm:text-right dark:text-gray-400 shrink-0">
                   08:00 - 09:00
                 </p>
-                <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+                <h3 className="md:text-1xl font-semibold text-gray-900 dark:text-white">
                   <a href="#" className="hover:underline">Clases con @Martha</a>
                 </h3>
               </div>
 
               <div className="flex flex-col gap-2 py-4 sm:gap-6 sm:flex-row sm:items-center">
-                <p className="w-32 text-lg font-normal text-gray-500 sm:text-right dark:text-gray-400 shrink-0">
+                <p className="w-32 md:text-1xl font-normal text-gray-500 sm:text-right dark:text-gray-400 shrink-0">
                   09:00 - 10:00
                 </p>
-                <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+                <h3 className="md:text-1xl font-semibold text-gray-900 dark:text-white">
                   <a href="#" className="hover:underline">Gramática</a>
                 </h3>
               </div>
 
               <div className="flex flex-col gap-2 py-4 sm:gap-6 sm:flex-row sm:items-center">
-                <p className="w-32 text-lg font-normal text-gray-500 sm:text-right dark:text-gray-400 shrink-0">
+                <p className="w-32 md:text-1xl font-normal text-gray-500 sm:text-right dark:text-gray-400 shrink-0">
                   10:00 - 11:00
                 </p>
-                <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+                <h3 className="md:text-1xl font-semibold text-gray-900 dark:text-white">
                 <a href="#" className="hover:underline">Clases para practicar (hablar y escuchar)</a>
                 </h3>
               </div>
 
               <div className="flex flex-col gap-2 py-4 sm:gap-6 sm:flex-row sm:items-center">
-                <p className="w-32 text-lg font-normal text-gray-500 sm:text-right dark:text-gray-400 shrink-0">
+                <p className="w-32 md:text-1xl font-normal text-gray-500 sm:text-right dark:text-gray-400 shrink-0">
                   11:00 - 12:00
                 </p>
-                <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+                <h3 className="md:text-1xl font-semibold text-gray-900 dark:text-white">
                   <a href="#" className="hover:underline">Descanso</a>
                 </h3>
               </div>
 
               <div className="flex flex-col gap-2 py-4 sm:gap-6 sm:flex-row sm:items-center">
-                <p className="w-32 text-lg font-normal text-gray-500 sm:text-right dark:text-gray-400 shrink-0">
+                <p className="w-32 md:text-1xl font-normal text-gray-500 sm:text-right dark:text-gray-400 shrink-0">
                   12:00 - 13:00
                 </p>
-                <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+                <h3 className="md:text-1xl font-semibold text-gray-900 dark:text-white">
                   <a href="#" className="hover:underline">Tandem con @Juan</a>
                 </h3>
               </div>
 
               <div className="flex flex-col gap-2 py-4 sm:gap-6 sm:flex-row sm:items-center">
-                <p className="w-32 text-lg font-normal text-gray-500 sm:text-right dark:text-gray-400 shrink-0">
+                <p className="w-32 md:text-1xl font-normal text-gray-500 sm:text-right dark:text-gray-400 shrink-0">
                   13:00 - 14:00
                 </p>
-                <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+                <h3 className="md:text-1xl font-semibold text-gray-900 dark:text-white">
                   <a href="#" className="hover:underline">Reunión con la comunidad</a>
                 </h3>
               </div>
   
               <div className="flex flex-col gap-2 py-4 sm:gap-6 sm:flex-row sm:items-center">
-                <p className="w-32 text-lg font-normal text-gray-500 sm:text-right dark:text-gray-400 shrink-0">
+                <p className="w-32 md:text-1xl font-normal text-gray-500 sm:text-right dark:text-gray-400 shrink-0">
                   16:00 - 14:00
                 </p>
-                <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+                <h3 className="md:text-1xl font-semibold text-gray-900 dark:text-white">
                   <a href="#" className="hover:underline">Practicar para el test</a>
                 </h3>
               </div>
 
               <div className="flex flex-col gap-2 py-4 sm:gap-6 sm:flex-row sm:items-center">
-                <p className="w-32 text-lg font-normal text-gray-500 sm:text-right dark:text-gray-400 shrink-0">
+                <p className="w-32 md:text-1xl font-normal text-gray-500 sm:text-right dark:text-gray-400 shrink-0">
                   17:00 - 14:00
                 </p>
-                <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+                <h3 className="md:text-1xl font-semibold text-gray-900 dark:text-white">
                   <a href="#" className="hover:underline">Realizar tareas grupales</a>
                 </h3>
               </div>

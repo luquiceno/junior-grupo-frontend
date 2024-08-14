@@ -6,13 +6,15 @@ function Comunidad() {
         <div className="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-6">
           <div className="mx-auto mb-8 max-w-screen-sm lg:mb-16">
             <h2 className="mb-4 text-2xl tracking-tight font-extrabold text-indigo-900 dark:text-white pt-16">Mi Comunidad</h2>
-            <p className="font-light text-gray-500 sm:text-xl dark:text-gray-400">Esta es tu lista de contactos de profesores, compañeros y personas de la comunidad, que te ayudarán a mejorar tus habilidades con el idioma Inglés.</p>
+            <p className="font-light text-gray-500 md:text-1xl dark:text-gray-400">Esta es tu lista de contactos de profesores, compañeros y personas de la comunidad, que te ayudarán a mejorar tus habilidades con el idioma Inglés.</p>
           </div> 
           <div className="grid gap-8 lg:gap-16 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
             <div className="text-center text-gray-500 dark:text-gray-400">
-              <img className="mx-auto mb-4 w-32 h-32 rounded-full" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/bonnie-green.png" alt="Bonnie Avatar" /> 
+              <a href="https://www.vecteezy.com/free-png/avatar" target="_blank">
+                <img className="mx-auto mb-4 w-32 h-32 rounded-full" src="../public/woman-face.png" alt="Woman Avatar PNGs by Vecteezy" /> 
+              </a>
                 <h3 className="mb-1 text-1xl font-bold tracking-tight text-gray-900 dark:text-white">
-                  <a href="#">Karla Martinez</a>
+                  Karla Martinez
                 </h3>
                 <p>Grupo Uno</p>
                 <ul className="flex justify-center mt-4 space-x-4">
@@ -34,9 +36,11 @@ function Comunidad() {
                 </ul>
             </div>
             <div className="text-center text-gray-500 dark:text-gray-400">
-              <img className="mx-auto mb-4 w-32 h-32 rounded-full" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/helene-engels.png" alt="Helene Avatar" />
+              <a href="https://www.vecteezy.com/free-png/avatar" target="_blank">
+                <img className="mx-auto mb-4 w-32 h-32 rounded-full" src="../public/woman-face.png" alt="Woman Avatar PNGs by Vecteezy" />
+              </a>
               <h3 className="mb-1 text-1xl font-bold tracking-tight text-gray-900 dark:text-white">
-                  <a href="#">Helena Sanchez</a>
+                  Helena Sanchez
               </h3>
               <p>Tandem USA</p>
               <ul className="flex justify-center mt-4 space-x-4">
@@ -58,9 +62,11 @@ function Comunidad() {
               </ul>
             </div>
             <div className="text-center text-gray-500 dark:text-gray-400">
-              <img className="mx-auto mb-4 w-32 h-32 rounded-full" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/jese-leos.png" alt="Jese Avatar" />
+              <a href="https://www.vecteezy.com/free-png/avatar" target="_blank">
+                <img className="mx-auto mb-4 w-32 h-32 rounded-full" src="../public/man-avatar.png" alt="Man Avatar PNGs by Vecteezy" />
+              </a>
               <h3 className="mb-1 text-1xl font-bold tracking-tight text-gray-900 dark:text-white">
-                  <a href="#">Juan Marcos</a>
+                  Juan Marcos
               </h3>
               <p>Profesor Gramática</p>
               <ul className="flex justify-center mt-4 space-x-4">
@@ -82,9 +88,11 @@ function Comunidad() {
               </ul>
             </div>
             <div className="text-center text-gray-500 dark:text-gray-400">
-              <img className="mx-auto mb-4 w-32 h-32 rounded-full" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/joseph-mcfall.png" alt="Joseph Avatar" />
+              <a href="https://www.vecteezy.com/free-png/avatar" target="_blank">
+                <img className="mx-auto mb-4 w-32 h-32 rounded-full" src="../public/man-avatar.png" alt="Man Avatar PNGs by Vecteezy" />
+              </a>
               <h3 className="mb-1 text-1xl font-bold tracking-tight text-gray-900 dark:text-white">
-                  <a href="#">Andrés Campos</a>
+                  Andrés Campos
               </h3>
               <p>Tandem Australia</p>
               <ul className="flex justify-center mt-4 space-x-4">
@@ -106,9 +114,11 @@ function Comunidad() {
               </ul>
             </div>
             <div className="text-center text-gray-500 dark:text-gray-400">
-              <img className="mx-auto mb-4 w-32 h-32 rounded-full" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/sofia-mcguire.png" alt="Sofia Avatar" />
+              <a href="https://www.vecteezy.com/free-png/avatar" target="_blank">
+                <img className="mx-auto mb-4 w-32 h-32 rounded-full" src="../public/woman-face.png" alt="Woman Avatar PNGs by Vecteezy" />
+              </a>
               <h3 className="mb-1 text-1xl font-bold tracking-tight text-gray-900 dark:text-white">
-                  <a href="#">Camila Romero</a>
+                  Camila Romero
               </h3>
               <p>Profesora de Speaking</p>
               <ul className="flex justify-center mt-4 space-x-4">
@@ -130,9 +140,11 @@ function Comunidad() {
               </ul>
             </div>
             <div className="text-center text-gray-500 dark:text-gray-400">
-              <img className="mx-auto mb-4 w-32 h-32 rounded-full" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/thomas-lean.png" alt="Leslie Avatar" />
+              <a href="https://www.vecteezy.com/free-png/avatar" target="_blank">
+                <img className="mx-auto mb-4 w-32 h-32 rounded-full" src="../public/man-avatar.png" alt="Man Avatar PNGs by Vecteezy" />
+              </a>
               <h3 className="mb-1 text-1xl font-bold tracking-tight text-gray-900 dark:text-white">
-                <a href="#">Ricardo López</a>
+                Ricardo López
               </h3>
               <p>Grupo Dos</p>
               <ul className="flex justify-center mt-4 space-x-4">
@@ -154,9 +166,11 @@ function Comunidad() {
               </ul>
             </div>
             <div className="text-center text-gray-500 dark:text-gray-400">
-              <img className="mx-auto mb-4 w-32 h-32 rounded-full" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/michael-gouch.png" alt="Michael Avatar" />
+              <a href="https://www.vecteezy.com/free-png/avatar" target="_blank">
+                <img className="mx-auto mb-4 w-32 h-32 rounded-full" src="../public/man-avatar.png" alt="Man Avatar PNGs by Vecteezy" />
+              </a>
               <h3 className="mb-1 text-1xl font-bold tracking-tight text-gray-900 dark:text-white">
-                  <a href="#">Benjamín Burgos</a>
+                  Benjamín Burgos
               </h3>
               <p>Profesor de Listening</p>
               <ul className="flex justify-center mt-4 space-x-4">
@@ -178,9 +192,11 @@ function Comunidad() {
               </ul>
             </div>
             <div className="text-center text-gray-500 dark:text-gray-400">
-              <img className="mx-auto mb-4 w-32 h-32 rounded-full" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/neil-sims.png" alt="Neil Avatar" />
+              <a href="https://www.vecteezy.com/free-png/avatar" target="_blank">
+                <img className="mx-auto mb-4 w-32 h-32 rounded-full" src="../public/man-avatar.png" alt="Man Avatar PNGs by Vecteezy" />
+              </a>
               <h3 className="mb-1 text-1xl font-bold tracking-tight text-gray-900 dark:text-white">
-                <a href="#">Santiago Marín</a>
+                Santiago Marín
               </h3>
               <p>Tandem UK</p>
               <ul className="flex justify-center mt-4 space-x-4">

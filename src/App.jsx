@@ -6,7 +6,6 @@ import Comunidad from './components/Comunidad';
 import Otros from './components/Otros'
 import FooterApp from './components/Footer';
 import './App.css';
-//import { Button } from "flowbite-react";
 
 function App() {
 
@@ -14,7 +13,6 @@ function App() {
     <Router>
       <div>
         <NavMenu />
-        {/* <Button color="blue" className='px-4 py-2 text-sm'>Blue</Button> */}
         <Routes>
           <Route path="/" element={<Misactividades />} />
           <Route path="/calendario" element={<Calendario />} />
