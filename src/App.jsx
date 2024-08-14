@@ -1,14 +1,12 @@
-//import { useState } from 'react'
-
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import NavMenu from './components/NavMenu';
 import Calendario from './components/Calendario';
 import Misactividades from './components/Misactividades';
 import Comunidad from './components/Comunidad';
 import Otros from './components/Otros'
+import FooterApp from './components/Footer';
 import './App.css';
 //import { Button } from "flowbite-react";
-
 
 function App() {
 
@@ -16,7 +14,6 @@ function App() {
     <Router>
       <div>
         <NavMenu />
-          
         {/* <Button color="blue" className='px-4 py-2 text-sm'>Blue</Button> */}
         <Routes>
           <Route path="/" element={<Misactividades />} />
@@ -25,6 +22,7 @@ function App() {
           <Route path="/otros" element={<Otros />} />
         </Routes>
       </div>
+      <FooterApp /> 
     </Router>
   )
 }
