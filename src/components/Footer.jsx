@@ -4,7 +4,7 @@ import { BsFacebook, BsGithub, BsInstagram, BsTwitter } from "react-icons/bs";
 function FooterApp() {
   return (
     <div>
-      <Footer container className="bg-gray-100 mt-24">
+      <Footer container className="bg-gray-100 mt-48">
         <div className="w-full">
           <div className="grid w-full justify-between sm:flex sm:justify-between md:flex md:grid-cols-1">
             <div>
