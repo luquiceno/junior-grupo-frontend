@@ -42,9 +42,4 @@
 *   Para ejecutar la aplicación localmente
 
     npm run dev
-
     
-
-
- 
-   
