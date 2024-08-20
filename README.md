@@ -7,9 +7,8 @@
 
 
  ![Pantallazo de la página principal donde se muestra un ejemplo de un ejercicio funcional](src/assets/appjunior.png)
- 
 
-**EJECUTAR LA APLICACIÓN**
+ **EJECUTAR LA APLICACIÓN**
 
  * Clonar el repositorio
  
@@ -43,3 +42,4 @@
 *   Para ejecutar la aplicación localmente
 
     npm run dev
+    
