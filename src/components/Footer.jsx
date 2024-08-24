@@ -15,7 +15,7 @@ function FooterApp() {
                 <Footer.Title title="Sobre Nosotros" />
                 <Footer.LinkGroup col>
                   <Footer.Link href="#">APPrende</Footer.Link>
-                  <Footer.Link href="#">Contáctanos</Footer.Link>
+                  <Footer.Link href="/contact">Contáctanos</Footer.Link>
                 </Footer.LinkGroup>
               </div>
               <div>
