@@ -53,7 +53,7 @@
 
 ## **Por qué debería hacer parte de los grupos de trabajo Frontend?**
 
- Considero que debería ser seleccionada para estar en los grupos de trabajo de Frontend, porque aunque no tenga experiencia en el rol como Frontend, cuento con experiencia laboral donde pude trabajar de cerca con equipos de desarrollo o equipos en general, y hay habilidades que pueden ser transferidas a los grupos de trabajo frontend, tales como: colaboración, comunicación, adaptación, cumplimiento, etc. 
+ Considero que debería ser seleccionada para los grupos de trabajo Frontend, porque aunque no tenga experiencia en el rol como desarrolladora Frontend, cuento con [experiencia laboral](https://www.linkedin.com/in/lucia-mejiaq-frontend-developer/) donde pude trabajar de cerca con equipos de desarrollo o equipos en general, construyendo habilidades que podrían ser transferidas a los grupos de trabajo tales como: colaboración, comunicación, adaptación, cumplimiento, entre otras. 
  
  En este nuevo rol como desarrolladora Frontend he sido autodidacta, he empezado proyectos desde cero o he contribuido a [proyectos](https://github.com/luquiceno/perfcompareBeta/commits?author=luquiceno) de código abierto que se encuentran en marcha. 
  
