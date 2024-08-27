@@ -7,6 +7,9 @@
  La página es un prototipo funcional inicial de una plataforma donde los usuarios puedan aprender y practicar un idioma a través de ejercicios. Por el momento para aprender Inglés.
 
 
+ Enlace a la página: [https://apprende.netlify.app/](https://apprende.netlify.app/)
+
+
  ![Pantallazo de la página principal donde se muestra un ejemplo de un ejercicio funcional](src/assets/appjunior.png)
  
 
